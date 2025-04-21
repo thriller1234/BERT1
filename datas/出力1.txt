@@ -1,6 +1,4 @@
-PS C:\Users\serir\OneDrive\ドキュメント\2025開発\coding> & C:/Users/serir/AppData/Local/Programs/Python/Python313/python.exe c:/Users/serir/OneDrive/ドキュメント/2025開発/coding/dnn3_ws/scripts/bert_classification.py
-c:\Users\serir\OneDrive\ドキュメント\2025開発\coding\dnn3_ws\scripts\bert_classification.py:11: FutureWarning: The demoji.download_codes attribute is deprecated and will be removed from demoji in a future version. It is an unused attribute as emoji codes are now distributed directly with the demoji package.
-  demoji.download_codes()  # 絵文字処理のための辞書をダウンロード
+demoji.download_codes()  # 絵文字処理のための辞書をダウンロード
 ['dokujo-tsushin', 'it-life-hack', 'kaden-channel', 'livedoor-homme', 'movie-enter', 'peachy', 'smax', 'sports-watch', 'topic-news']
 [{'id': 0, 'category': 'dokujo-tsushin'}, {'id': 1, 'category': 'it-life-hack'}, {'id': 2, 'category': 'kaden-channel'}, {'id': 3, 'category': 'livedoor-homme'}, {'id': 4, 'category': 'movie-enter'}, {'id': 5, 'category': 'peachy'}, {'id': 6, 'category': 'smax'}, {'id': 7, 'category': 'sports-watch'}, {'id': 8, 'category': 'topic-news'}] 
 [{'file_name': 'dokujo-tsushin-4778030.txt', 'label': 0, 'category_name': 'dokujo-tsushin'}, {'file_name': 'dokujo-tsushin-4778031.txt', 'label': 0, 'category_name': 'dokujo-tsushin'}, {'file_name': 'dokujo-tsushin-4782522.txt', 'label': 0, 'category_name': 'dokujo-tsushin'}, {'file_name': 'dokujo-tsushin-4788357.txt', 'label': 0, 'category_name': 'dokujo-tsushin'}]
